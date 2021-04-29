@@ -1,0 +1,13 @@
+C:\Users\55199\Desktop\exercícios tp1\2a_lista_tp1-20669\2a_lista_tp1-20669\bin\Debug\netcoreapp3.1\2a_lista_tp1-20669.exe
+C:\Users\55199\Desktop\exercícios tp1\2a_lista_tp1-20669\2a_lista_tp1-20669\bin\Debug\netcoreapp3.1\2a_lista_tp1-20669.deps.json
+C:\Users\55199\Desktop\exercícios tp1\2a_lista_tp1-20669\2a_lista_tp1-20669\bin\Debug\netcoreapp3.1\2a_lista_tp1-20669.runtimeconfig.json
+C:\Users\55199\Desktop\exercícios tp1\2a_lista_tp1-20669\2a_lista_tp1-20669\bin\Debug\netcoreapp3.1\2a_lista_tp1-20669.runtimeconfig.dev.json
+C:\Users\55199\Desktop\exercícios tp1\2a_lista_tp1-20669\2a_lista_tp1-20669\bin\Debug\netcoreapp3.1\2a_lista_tp1-20669.dll
+C:\Users\55199\Desktop\exercícios tp1\2a_lista_tp1-20669\2a_lista_tp1-20669\bin\Debug\netcoreapp3.1\2a_lista_tp1-20669.pdb
+C:\Users\55199\Desktop\exercícios tp1\2a_lista_tp1-20669\2a_lista_tp1-20669\obj\Debug\netcoreapp3.1\2a_lista_tp1-20669.csprojAssemblyReference.cache
+C:\Users\55199\Desktop\exercícios tp1\2a_lista_tp1-20669\2a_lista_tp1-20669\obj\Debug\netcoreapp3.1\2a_lista_tp1-20669.AssemblyInfoInputs.cache
+C:\Users\55199\Desktop\exercícios tp1\2a_lista_tp1-20669\2a_lista_tp1-20669\obj\Debug\netcoreapp3.1\2a_lista_tp1-20669.AssemblyInfo.cs
+C:\Users\55199\Desktop\exercícios tp1\2a_lista_tp1-20669\2a_lista_tp1-20669\obj\Debug\netcoreapp3.1\2a_lista_tp1-20669.csproj.CoreCompileInputs.cache
+C:\Users\55199\Desktop\exercícios tp1\2a_lista_tp1-20669\2a_lista_tp1-20669\obj\Debug\netcoreapp3.1\2a_lista_tp1-20669.dll
+C:\Users\55199\Desktop\exercícios tp1\2a_lista_tp1-20669\2a_lista_tp1-20669\obj\Debug\netcoreapp3.1\2a_lista_tp1-20669.pdb
+C:\Users\55199\Desktop\exercícios tp1\2a_lista_tp1-20669\2a_lista_tp1-20669\obj\Debug\netcoreapp3.1\2a_lista_tp1-20669.genruntimeconfig.cache

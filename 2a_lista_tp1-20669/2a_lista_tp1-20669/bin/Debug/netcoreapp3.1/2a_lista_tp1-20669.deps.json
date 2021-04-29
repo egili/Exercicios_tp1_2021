@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "2a_lista_tp1-20669/1.0.0": {
+        "runtime": {
+          "2a_lista_tp1-20669.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2a_lista_tp1-20669/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
