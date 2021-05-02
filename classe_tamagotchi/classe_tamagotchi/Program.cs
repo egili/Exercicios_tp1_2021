@@ -6,7 +6,7 @@ namespace classe_tamagotchi
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
