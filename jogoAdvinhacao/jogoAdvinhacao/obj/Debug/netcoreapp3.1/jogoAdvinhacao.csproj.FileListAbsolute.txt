@@ -1,0 +1,13 @@
+C:\Users\55199\source\repos\jogoAdvinhacao\jogoAdvinhacao\bin\Debug\netcoreapp3.1\jogoAdvinhacao.exe
+C:\Users\55199\source\repos\jogoAdvinhacao\jogoAdvinhacao\bin\Debug\netcoreapp3.1\jogoAdvinhacao.deps.json
+C:\Users\55199\source\repos\jogoAdvinhacao\jogoAdvinhacao\bin\Debug\netcoreapp3.1\jogoAdvinhacao.runtimeconfig.json
+C:\Users\55199\source\repos\jogoAdvinhacao\jogoAdvinhacao\bin\Debug\netcoreapp3.1\jogoAdvinhacao.runtimeconfig.dev.json
+C:\Users\55199\source\repos\jogoAdvinhacao\jogoAdvinhacao\bin\Debug\netcoreapp3.1\jogoAdvinhacao.dll
+C:\Users\55199\source\repos\jogoAdvinhacao\jogoAdvinhacao\bin\Debug\netcoreapp3.1\jogoAdvinhacao.pdb
+C:\Users\55199\source\repos\jogoAdvinhacao\jogoAdvinhacao\obj\Debug\netcoreapp3.1\jogoAdvinhacao.csprojAssemblyReference.cache
+C:\Users\55199\source\repos\jogoAdvinhacao\jogoAdvinhacao\obj\Debug\netcoreapp3.1\jogoAdvinhacao.AssemblyInfoInputs.cache
+C:\Users\55199\source\repos\jogoAdvinhacao\jogoAdvinhacao\obj\Debug\netcoreapp3.1\jogoAdvinhacao.AssemblyInfo.cs
+C:\Users\55199\source\repos\jogoAdvinhacao\jogoAdvinhacao\obj\Debug\netcoreapp3.1\jogoAdvinhacao.csproj.CoreCompileInputs.cache
+C:\Users\55199\source\repos\jogoAdvinhacao\jogoAdvinhacao\obj\Debug\netcoreapp3.1\jogoAdvinhacao.dll
+C:\Users\55199\source\repos\jogoAdvinhacao\jogoAdvinhacao\obj\Debug\netcoreapp3.1\jogoAdvinhacao.pdb
+C:\Users\55199\source\repos\jogoAdvinhacao\jogoAdvinhacao\obj\Debug\netcoreapp3.1\jogoAdvinhacao.genruntimeconfig.cache

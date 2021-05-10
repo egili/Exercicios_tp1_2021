@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\55199\Documents\Repositórios\Exercicios_tp1_2021\Jogo_Advinhacao.cs" Link="Jogo_Advinhacao.cs" />
+  </ItemGroup>
+
+</Project>
